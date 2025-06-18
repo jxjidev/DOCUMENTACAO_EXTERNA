@@ -2,15 +2,15 @@
 
 ### Objetivo
 
-Este documento estabelece os parâmetros de atendimento e prazos de resposta para incidentes, dúvidas e solicitações relacionadas à plataforma QADEVOPS, garantindo qualidade, previsibilidade e rastreabilidade na prestação de serviços.
+Este documento estabelece os parâmetros de atendimento e prazos de resposta para incidentes, dúvidas e solicitações relacionadas à plataforma QADevOps, garantindo qualidade, previsibilidade e rastreabilidade na prestação de serviços.
 
 ### Canais de Atendimento
 
 Os chamados podem ser abertos pelos seguintes canais oficiais:\
 \
-\- Plataforma QADEVOPS: através da central de suporte integrada com a plataforma Tiflux, disponível no menu principal.\
-\- Chat Online: acesso direto ao time de atendimento, disponível no ambiente QADEVOPS durante o horário comercial.\
-\- E-mail: para casos específicos ou envio de evidências complementares, use o e-mail: support@qametrik.com, que automaticamente é gerado um ticket na plataforma Tiflux.\
+\- Plataforma QADevOps: através da central de suporte integrada ao sistema de chamados Tiflux, disponível no menu principal.\
+\- Chat Online: acesso direto ao time de atendimento, disponível no ambiente QADevOps durante o horário comercial.\
+\- E-mail: para casos específicos ou envio de evidências complementares, use o e-mail: support@qametrik.com, que automaticamente é gerado um ticket no sistema Tiflux.\
 \
 É importante que os chamados contenham:\
 \- Descrição detalhada do problema\
@@ -30,7 +30,7 @@ Os chamados podem ser abertos pelos seguintes canais oficiais:\
 
 O SLA será pausado nos seguintes casos:
 
-* A causa do problema for identificada como externa ou de responsabilidade do cliente (infraestrutura local, rede, acesso ao SAP, etc.).
+* A causa do problema for identificada como externa ou de responsabilidade do cliente (infraestrutura local, rede, acesso ao SAP, CPI, fila de transporte e etc.).
 * Houver pendência de retorno do cliente com evidências ou liberações necessárias para continuidade da análise.
 
 Nesses casos, o cliente será notificado com um relatório técnico contendo:
@@ -45,8 +45,8 @@ Nesses casos, o cliente será notificado com um relatório técnico contendo:
 ### **Disposições Gerais**
 
 * O SLA considera atendimento em horário comercial: segunda a sexta-feira, das 9h às 18h (horário de Brasília), exceto feriados nacionais.
-* A contagem de tempo do SLA tem início a partir do registro do chamado na central Tiflux, seja pela plataforma QADEVOPS, chat online ou e-mail.
-* O tempo de resposta refere-se à primeira tratativa técnica por parte do time QADEVOPS, e não necessariamente à resolução completa do problema.
+* A contagem de tempo do SLA tem início a partir do registro do chamado na central Tiflux, seja pela plataforma QADevOps, chat online ou e-mail.
+* O tempo de resposta refere-se à primeira tratativa técnica por parte do time QADevOps, e não necessariamente à resolução completa do problema.
 * A comunicação com o cliente durante o processo será realizada por meio do próprio Tiflux, garantindo histórico e rastreabilidade.
 * O cliente é responsável por garantir acesso adequado aos ambientes e recursos necessários para a resolução do problema.
 * Atualizações relevantes, manutenções programadas e mudanças de infraestrutura que possam impactar o SLA serão previamente comunicadas ao cliente.
