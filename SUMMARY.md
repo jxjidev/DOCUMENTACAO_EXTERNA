@@ -11,6 +11,7 @@
   * [Demandas - Filtro e Pesquisa](manual-qadevops/demandas-filtro-e-pesquisa.md)
   * [Avaliações de Qualidade](manual-qadevops/avaliacoes-de-qualidade.md)
   * [QAManager e Decisor - Fluxo de Justificativa](manual-qadevops/qamanager-e-decisor-fluxo-de-justificativa.md)
+  * [SLA](manual-qadevops/sla.md)
 * [Referencia de Demandas](referencia-de-demandas.md)
 * [Suporte Portal](suporte-portal/README.md)
   * [Suporte](suporte-portal/suporte.md)
