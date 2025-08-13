@@ -44,3 +44,5 @@
   * [Habilitar anexos obrigatórios na demanda](configuracoes-gerais/habilitar-anexos-obrigatorios-na-demanda.md)
   * [Habilitar validação de objetos que alteram tabelas](configuracoes-gerais/habilitar-validacao-de-objetos-que-alteram-tabelas.md)
   * [Limitador de Objetos na Demanda](configuracoes-gerais/limitador-de-objetos-na-demanda.md)
+* [Transporte em Massa](transporte-em-massa/README.md)
+  * [Funcionalidade](transporte-em-massa/funcionalidade.md)

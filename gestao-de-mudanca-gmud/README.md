@@ -1,16 +1,5 @@
 ---
 description: Detalhes da Funcionalidade GMUD
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Gestão de Mudança - GMUD
