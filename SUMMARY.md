@@ -46,3 +46,8 @@
   * [Limitador de Objetos na Demanda](configuracoes-gerais/limitador-de-objetos-na-demanda.md)
 * [Transporte em Massa](transporte-em-massa/README.md)
   * [Funcionalidade](transporte-em-massa/funcionalidade.md)
+* [Gestão de Eventos](gestao-de-eventos/README.md)
+  * [Funcionalidade](gestao-de-eventos/funcionalidade.md)
+  * [Transporte de Cópia](gestao-de-eventos/transporte-de-copia.md)
+  * [Movimentação de Demanda](gestao-de-eventos/movimentacao-de-demanda.md)
+  * [Requests Liberadas Fora do Processo](gestao-de-eventos/requests-liberadas-fora-do-processo.md)
