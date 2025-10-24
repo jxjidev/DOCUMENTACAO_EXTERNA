@@ -51,3 +51,5 @@
   * [Transporte de Cópia](gestao-de-eventos/transporte-de-copia.md)
   * [Movimentação de Demanda](gestao-de-eventos/movimentacao-de-demanda.md)
   * [Requests Liberadas Fora do Processo](gestao-de-eventos/requests-liberadas-fora-do-processo.md)
+* [Gestão de Custos](gestao-de-custos/README.md)
+  * [Page 1](gestao-de-custos/page-1.md)
