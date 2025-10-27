@@ -10,4 +10,4 @@ Essa validação tem como objetivo fortalecer o controle sobre mudanças crític
 
 Exemplo:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>

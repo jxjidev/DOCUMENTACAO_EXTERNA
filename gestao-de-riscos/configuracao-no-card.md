@@ -4,11 +4,11 @@ Se a funcionalidade estiver ativada e o card for movido de qualidade para produ�
 
 * Será exibido o ícone com risco de transporte.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ao selecionar a demanda e clicar na aba "riscos", serão exibidos todos os riscos envolvidos na liberação da request.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A validação pode ser realizada clicando nos 3 pontos do lado direito e selecionando a opção “Solicitar Gestão de Riscos”
 

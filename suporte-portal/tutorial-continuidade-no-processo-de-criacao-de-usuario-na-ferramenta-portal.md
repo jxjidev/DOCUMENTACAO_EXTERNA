@@ -20,15 +20,15 @@ description: >-
 
 * Na parte superior ao lado direito da página terá um botão + Criar novo Usuário-Usuário DevOps, clique nele e aparecerá a tela de cadastro.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Informe os campos obrigatórios, como Nome e Sobrenome, Endereço de E-mail, CPF, Cargo (se o usuário informar) e Usuário SAP, mantenha selecionado as opções abaixo de: Enviar e-mail de ativação e Ativo, verifique na aba Autorizações se está selecionado a opção Desenvolvedor (é a única que deve estar flegada, caso não seja um Decisor, Gerente ou Administrador), depois clique em salvar.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Consulte o nome do usuário para confirmar que ele foi cadastrado corretamente e se está como Ativo.
 
-    <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 * Após realizado este processo informe o usuário os passos que ele deve seguir para finalizar seu cadastro e poder acessar o seu ambiente (Meus Acessos).
 
 **Foi realizado o cadastro do seu usuário no Portal.**\
