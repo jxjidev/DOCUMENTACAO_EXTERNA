@@ -5,19 +5,19 @@
 * Acessar [https://devops.qametrik.com/account/login](https://devops.qametrik.com/account/login)
 * Efetuar login com Usuário/Senha > Clicar no botão "log in"
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Ao acessar o Host do Portal QAMetrik DevOps > Clicar na aba lateral "Meus Acesso" > Selecionar o ambiente do Cliente desejado
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * Dentro do Tenant > Acessar a aba lateral "Demanda'
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 * O usuário devera clicar no botão "Criar nova demanda" na parte superior direita da pagina
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * Ao clicar no botão "Criar nova demanda" abrirá um modal
 * O usuário deverá selecionar o Módulo do SAP.

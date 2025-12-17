@@ -7,10 +7,9 @@ Para ativar a Gestão de Custo, é necessário ser um administrador e seguir os 
 
 Acesse o menu Integrações.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Selecione a opção Configurações Gerais e selecione a opção "Gestão de Custos".\
-
+Selecione a opção Configurações Gerais e selecione a opção "Gestão de Custos".<br>
 
 <figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 

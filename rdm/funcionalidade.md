@@ -45,8 +45,7 @@ Clicando no botão de **"Ação"** é possível conferir as informações da RDM
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-Cenário **Aprovado**:\
-
+Cenário **Aprovado**:<br>
 
 <figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 

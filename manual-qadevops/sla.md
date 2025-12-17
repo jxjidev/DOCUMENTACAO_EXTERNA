@@ -50,33 +50,3 @@ Nesses casos, o cliente será notificado com um relatório técnico contendo:
 * A comunicação com o cliente durante o processo será realizada por meio do próprio Tiflux, garantindo histórico e rastreabilidade.
 * O cliente é responsável por garantir acesso adequado aos ambientes e recursos necessários para a resolução do problema.
 * Atualizações relevantes, manutenções programadas e mudanças de infraestrutura que possam impactar o SLA serão previamente comunicadas ao cliente.
-
-\
-\
-\
-\
-\
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

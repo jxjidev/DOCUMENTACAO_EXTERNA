@@ -5,7 +5,7 @@
 * Acessar [https://devops.qametrik.com/account/login](https://devops.qametrik.com/account/login)
 * Efetuar o Login/Senha no Host do Portal QAMetrik DevOps
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Dentro do Host > clicar na aba lateral "Avaliação de Qualidade"
 

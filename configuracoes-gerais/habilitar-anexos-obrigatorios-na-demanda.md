@@ -14,4 +14,4 @@ Com essa configuração, toda demanda de projeto associada ao usuário em quest�
 \
 Exemplo:
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>

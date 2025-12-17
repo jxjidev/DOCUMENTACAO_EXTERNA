@@ -2,7 +2,7 @@
 
 É possível cadastrar um novo centro de custos acessando a aba "Centro de Custos" no sistema.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para criar um novo centro de custo, é necessário informar:
 
@@ -13,10 +13,10 @@ Para criar um novo centro de custo, é necessário informar:
 
 Durante a criação, deve-se verificar se um dos aprovadores possui permissão para aprovar em nome de todos os outros. Também é possível ativar o controle de tempo para o centro de custo, se necessário.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após a criação, os centros de custos podem ser editados ou excluídos (caso não tenha demandas associadas) por meio das opções disponíveis na coluna "Ações".
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 A aba "Centro de Custos" funciona como um hub central para a gestão de centros de custos, oferecendo flexibilidade e controle detalhado para criação, edição e manutenção.

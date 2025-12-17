@@ -5,15 +5,15 @@
 * Acessar [https://devops.qametrik.com/account/login](https://devops.qametrik.com/account/login)
 * Efetuar login com Usuário/Senha > Clicar no botão "log in"
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Ao acessar o Host do Portal QAMetrik DevOps > Clicar na aba lateral "Meus Acesso" > Selecionar o ambiente do Cliente desejado
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * Dentro do Tenant > Acessar a aba lateral "Demanda'
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 * Criar uma demanda
 * Arrastar o card da demanda de Backlog > Desenvolvimento para criar no SAP uma request (onde o desenvolvedor ABAP, poderá criar Task/Objetos)

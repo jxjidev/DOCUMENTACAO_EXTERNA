@@ -5,19 +5,16 @@
 * Acessar [https://devops.qametrik.com/account/login](https://devops.qametrik.com/account/login)
 * Efetuar login com seu Usuário/Senha > clicar no botão "Log In"
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * Ao acessar o Host do Portal QAMetrik DevOps > clicar na aba lateral "Meus Acesso" > Selecionar o ambiente do Cliente desejado
-
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-
 * Dentro do Tenant do Portal > clicar na aba lateral "Demanda"
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * Na parte superior da pagina haverá um campo de pesquisa, onde o usuário poderá pesquisar demandas por Titulo/Descrição > clicar no botão de "Lupa" para efetuar a pesquisa
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Logo abaixo, Clicando em "Mostrar filtros avançados"
 * O usuário poderá filtrar as demandas por ID, Referencia, Tipo, Discrição, Status, Usuário envolvido, Previsão de término de homologação e numero da mudança.
