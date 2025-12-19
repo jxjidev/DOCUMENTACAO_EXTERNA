@@ -5,7 +5,7 @@
 * Acessar  [https://devops.qametrik.com/account/login](https://devops.qametrik.com/account/login)
 * Efetuar login com Usuário/Senha >> clicar no botão "Log In"
 
-<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 * Dentro do Host >> clicar na aba lateral "Suporte"
 
