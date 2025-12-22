@@ -10,6 +10,6 @@ description: Fluxo de Aprovação de Card e Envio de E-mail
 
 • Clicando no card e na aba “**Gestão de Mudança**”, visualizamos as informações da mudança e status de aprovação. Após aprovação será enviado um e-mail indicado que a request está disponível para transporte no ambiente produtivo, somente para o tipo de transporte “**Manual**”.
 
-<figure><img src="../.gitbook/assets/img14.png" alt="Cards - Tela Gestão de Mudança"><figcaption><p>Cards - Tela Gestão de Mudança</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/img15.png" alt="E-mail Enviado"><figcaption><p>E-mail Enviado</p></figcaption></figure>

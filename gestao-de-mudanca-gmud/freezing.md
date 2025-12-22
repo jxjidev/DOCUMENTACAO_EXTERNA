@@ -22,11 +22,7 @@ Aprovadores:
 
 &#x20;Nesta seção, é possível configurar quem serão os aprovadores. A primeira pessoa selecionada como aprovadora, assim que aprovar a demanda é liberada para que seja realizada durante o período de Freezing.
 
-&#x20;
-
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-&#x20;
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Período de Freezing:
 
@@ -46,6 +42,6 @@ Período de Freezing:
 
 Configure o intervalo de tempo em que as demandas estarão em Freezing. Durante esse período, as demandas não serão processadas nem atendidas.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;

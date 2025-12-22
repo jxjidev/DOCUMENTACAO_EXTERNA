@@ -16,4 +16,4 @@ description: Tela de Configuração de Departamentos
 
 • Após realizar as configurações clicar no botão “**Salvar todos**”.
 
-<figure><img src="../.gitbook/assets/img01.png" alt="Configurações Departamentos"><figcaption><p>Configurações Departamentos</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>

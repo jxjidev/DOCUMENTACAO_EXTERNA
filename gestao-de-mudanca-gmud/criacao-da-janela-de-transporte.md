@@ -12,4 +12,4 @@ Primeiro selecionar na aba lateral de “deploy”, “configurações”;
 
 ·         Clicar em “Janela de transporte” e poderá fazer o cadastro das datas e horários, conforme necessidade.<br>
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>

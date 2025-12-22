@@ -8,7 +8,7 @@ description: Fluxo de Mudança de Card ao Alternar Entre Abas
 
 • Quando o card é movimentado de “**Homologação**” para “**Produção**”, a tela de Gestão de Mudança é exibida para preenchimento das informações.
 
-<figure><img src="../.gitbook/assets/img05.png" alt="Cards - Tela Gestão de Mudança"><figcaption><p>Cards - Tela Gestão de Mudança</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 • Conforme solicitado, os campos destacados abaixo estão habilitados para alterar e com a definição de mínima de caracteres.
 
@@ -42,9 +42,9 @@ description: Fluxo de Mudança de Card ao Alternar Entre Abas
 
 Selecionar a opção no menu “**Aprovações**” e selecionar a demanda desejada para aprovação no caso “**4814**”, clicar no botão “**Ações**” e “**Visualizar**”.
 
-<figure><img src="../.gitbook/assets/img11.png" alt="Tela GMUD Aprovações"><figcaption><p>Tela GMUD Aprovações</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/img12.png" alt="Modal Detalhes da Demanda"><figcaption><p>Modal Detalhes da Demanda</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 • Será solicitado a justificativa para aprovação, após o preenchimento clicar no botão “**Aprovar**”&#x20;
 
@@ -52,4 +52,4 @@ Selecionar a opção no menu “**Aprovações**” e selecionar a demanda desej
 
 • Caso seja necessário reprovar, clicando no botão “**Reprovar**” a **GMUD** será cancelada
 
-<figure><img src="../.gitbook/assets/img13.png" alt="Modal Justificativa"><figcaption><p>Modal Justificativa</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>

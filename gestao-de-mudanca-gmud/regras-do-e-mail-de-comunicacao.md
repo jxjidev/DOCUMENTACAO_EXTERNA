@@ -4,7 +4,7 @@ description: Regras a serem seguidas do E-mail de Comunicação
 
 # Regras do E-mail de Comunicação
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ·         Quando o tipo de transporte for manual
 
