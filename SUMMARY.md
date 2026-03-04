@@ -60,3 +60,8 @@
   * [Status de demandas](gestao-de-custos/status-de-demandas.md)
   * [Responsáveis](gestao-de-custos/responsaveis.md)
   * [Histórico](gestao-de-custos/historico.md)
+* [Workflow](workflow/README.md)
+  * [Funcionalidade](workflow/funcionalidade.md)
+  * [Configuração](workflow/configuracao.md)
+  * [Funcionamento](workflow/funcionamento.md)
+  * [Benefícios](workflow/beneficios.md)
