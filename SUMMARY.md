@@ -65,3 +65,5 @@
   * [Configuração](workflow/configuracao.md)
   * [Funcionamento](workflow/funcionamento.md)
   * [Benefícios](workflow/beneficios.md)
+* [Wiki](wiki/README.md)
+  * [Funcionalidade](wiki/funcionalidade.md)
