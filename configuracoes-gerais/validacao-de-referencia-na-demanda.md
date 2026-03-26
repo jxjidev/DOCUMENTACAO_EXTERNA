@@ -8,4 +8,4 @@ Essa funcionalidade visa reduzir inconsistências e promover o uso racional de r
 \
 Exemplo:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

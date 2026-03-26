@@ -67,3 +67,7 @@
   * [Benefícios](workflow/beneficios.md)
 * [Wiki](wiki/README.md)
   * [Funcionalidade](wiki/funcionalidade.md)
+  * [Configuração](wiki/configuracao.md)
+  * [Azure Wiki](wiki/azure-wiki.md)
+  * [QAWiki](wiki/qawiki.md)
+  * [Benefícios](wiki/beneficios.md)

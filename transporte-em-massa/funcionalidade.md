@@ -16,4 +16,4 @@ Aqui você pode ver e gerenciar as demandas para transporte. A lista abaixo most
 3. Acompanhamento de Progresso: Depois de fazer a solicitação de transporte de cópia, utilize o botão de "refresh" para acompanhar o progresso.
 4. Disponibilidade: Essa Funcionalidade está somente disponível para o perfil de Administrador.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
