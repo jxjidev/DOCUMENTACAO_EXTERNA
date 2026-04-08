@@ -30,6 +30,7 @@
   * [Funcionalidade](gestao-de-riscos/funcionalidade.md)
   * [Ativar Funcionalidade](gestao-de-riscos/ativar-funcionalidade.md)
   * [Configuração no Card](gestao-de-riscos/configuracao-no-card.md)
+  * [Glossário de Tipos de Objetos](gestao-de-riscos/glossario-de-tipos-de-objetos.md)
 * [RDM](rdm/README.md)
   * [Configuração](rdm/configuracao.md)
   * [Funcionalidade](rdm/funcionalidade.md)
