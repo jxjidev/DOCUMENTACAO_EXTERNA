@@ -2,7 +2,7 @@
 
 É possível cadastrar um novo centro de custos acessando a aba "Centro de Custos" no sistema.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para criar um novo centro de custo, é necessário informar:
 

@@ -36,4 +36,4 @@ Ao selecionar o provedor **Azure Wiki**, será necessário preencher os dados pa
 * O PAT deve possuir permissões adequadas para leitura e escrita na Wiki
 * Após o preenchimento correto, será possível sincronizar as estruturas de pastas e documentos
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

@@ -11,4 +11,4 @@ Nesse cenário, o usuário pode:
 
 Essa abordagem oferece maior flexibilidade e controle total sobre a documentação.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

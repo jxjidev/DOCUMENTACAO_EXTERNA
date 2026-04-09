@@ -10,7 +10,7 @@
 * Ao acessar o Host do Portal QAMetrik DevOps
 * Clicar na aba lateral "Meus Acessos" > clicar no ambiente do cliente desejado
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Dentro do Tenant > clicar na aba lateral "Demandas"
 * Após criar uma demanda no Portal QADevOps > Arrastar o card da demanda para Backlog > Selecionar o "Mandante" > Clicar no botão "Salvar"

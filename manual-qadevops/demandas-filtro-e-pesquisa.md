@@ -10,7 +10,7 @@
 * Ao acessar o Host do Portal QAMetrik DevOps > clicar na aba lateral "Meus Acesso" > Selecionar o ambiente do Cliente desejado
 * Dentro do Tenant do Portal > clicar na aba lateral "Demanda"
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Na parte superior da pagina haverá um campo de pesquisa, onde o usuário poderá pesquisar demandas por Titulo/Descrição > clicar no botão de "Lupa" para efetuar a pesquisa
 

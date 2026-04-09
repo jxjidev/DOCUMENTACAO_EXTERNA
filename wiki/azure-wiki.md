@@ -9,4 +9,4 @@ Quando a integração com o Azure está ativa, o comportamento muda:
 * Não é possível criar ou alterar a estrutura diretamente pela aplicação
 * A Wiki funciona como um espelho para visualização dos conteúdos sincronizados
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
